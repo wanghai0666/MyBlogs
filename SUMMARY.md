@@ -1,3 +1,4 @@
+[toc]
 # 静雅斋博客[使用目录](https://www.cnblogs.com/wanghai0666/p/9837293.html)
 
 [使用帮助](https://www.cnblogs.com/wanghai0666/p/12248429.html)
