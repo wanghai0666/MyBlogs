@@ -1,11 +1,10 @@
 # 静雅斋博客[使用目录](https://www.cnblogs.com/wanghai0666/p/9837293.html)
 
-使用帮助()
+使用帮助(https://www.cnblogs.com/wanghai0666/p/12248429.html)
 
 ## 内容体系
 
-* [介绍](https://www.cnblogs.com/wanghai0666/p/12274353.html)
-  * [前言](qian-yan.md)
+* [前言](qian-yan.md)
 * [高中数学](chapter1.md)
   * [第一章 集合](chapter1/di-yi-zhang-ji-he.md)
   * [第二章 简单逻辑用语](chapter1/di-er-zhang-jian-dan-luo-ji-yong-yu.md)
